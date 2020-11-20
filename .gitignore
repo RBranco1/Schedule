@@ -1,0 +1,7 @@
+# dependencies
+/node_modules
+
+# misc
+/tokens
+roteiro.txt
+debug.log
