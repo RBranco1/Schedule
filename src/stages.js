@@ -9,15 +9,15 @@ var stages = {
     },
     2:{
         descricao:"Resumo",
-        obj: "arquivo2.js"
+        obj: require("./stages/2")
     },
     3:{
         descricao:"Perguntas",
-        obj: "arquivo3.js"
+        obj: require("./stages/3")
     },
     4:{
         descricao:"Encerramento",
-        obj: "arquivo4.js"
+        obj: require("./stages/4")
     },
 }
 
